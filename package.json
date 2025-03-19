@@ -1,0 +1,21 @@
+{
+  "name": "personal_budget_tracker",
+  "version": "1.0.0",
+  "description": "The **Personal Budget Tracker** is a web application that helps users manage their income and expenses efficiently. It allows users to track, analyze, and plan their budget with an intuitive interface.",
+  "keywords": [],
+  "homepage": "https://github.com/anujgoyaleng/Personal_Budget_Tracker#readme",
+  "bugs": {
+    "url": "https://github.com/anujgoyaleng/Personal_Budget_Tracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anujgoyaleng/Personal_Budget_Tracker.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
